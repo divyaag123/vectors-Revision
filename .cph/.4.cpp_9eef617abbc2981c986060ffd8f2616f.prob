@@ -1,0 +1,1 @@
+{"name":"Local: 4","url":"c:\\Users\\User\\Desktop\\stlc++\\4.cpp","tests":[{"id":1670347090637,"input":"8 7\n5\n7 8 \n8 2\n8 7\n6 9 \n8 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\stlc++\\4.cpp","group":"local","local":true}

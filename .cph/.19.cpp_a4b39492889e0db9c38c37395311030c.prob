@@ -1,0 +1,1 @@
+{"name":"Local: 19","url":"c:\\Users\\User\\Desktop\\stlc++\\19.cpp","tests":[{"id":1670604811038,"input":"8\nabc\ndef\nabc\nghj\njkl\nghj\nghj\nabc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\User\\Desktop\\stlc++\\19.cpp","group":"local","local":true}
